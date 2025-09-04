@@ -1,4 +1,4 @@
-# Awesome-gamedev-tools
+# Awesome-gamedev
 This is for free development tools and game engine tools.
  
 Armory: https://armory3d.org/
