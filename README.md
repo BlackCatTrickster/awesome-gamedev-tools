@@ -20,5 +20,3 @@ Defold: https://defold.com/download/
 Aseprite: https://sourceforge.net/projects/aseprite.mirror/
 
 Magica Voxela: https://ephtracy.github.io/
-
-MonoGame: https://monogame.net/
