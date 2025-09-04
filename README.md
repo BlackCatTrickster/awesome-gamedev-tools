@@ -15,7 +15,7 @@ Mixamo: https://www.mixamo.com/#/
 
 Audacity: https://www.audacityteam.org/download/
 
-Defold: https://defold.com/downl oad/
+Defold: https://defold.com/download/
 
 Aseprite: https://sourceforge.net/projects/aseprite.mirror/
 
