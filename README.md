@@ -1,7 +1,7 @@
 # Awesome-gamedev
 This is for free development tools and game engine tools.
  
-[Armory](https://armory3d.org/)
+[Armory](https://armory3d.org/):
 
 [Godot](https://godotengine.org/)
 
