@@ -22,6 +22,8 @@ This is for free development tools and game engine tools.
 [Magica Voxela](https://ephtracy.github.io/) ~ Voxel art editor for creating 3D pixel art
 
 ## Game Development Careers
+These are different game development career paths.
+
 
 
 ## Game Programming Disciplines
