@@ -39,3 +39,14 @@ Game Business Management ~ They specialize in creating marketing strategies, doi
 
 ## Game Programming Disciplines
 
+Engine Programming ~ This is the core of building games which includes rendering systems, physics engines, audio systems, and game architecture that other developers can build upon.
+
+Gameplay Programming ~ These programmers develop game mechanics, player controls, scoring systems, and the rules of the game.
+
+Physics Programming ~ These people implement realistic movement, collision's, and how the player interacts with the environment, and create physic calculations for realistic performance.
+
+Graphics Programming ~ They make specialize in visual rendering, shader development, lighting systems, particle effects, post-processing, and optimization for hardware.
+
+AI Programming ~ They develop NPCS, and create pathfinding algorithms, decision trees, behavior trees, and machine learning systems. This can also include Enemy AI, companion behaviors, procedural content generation, and adaptive difficulty systems that change based on the player choices.
+
+UI Programming ~ This is the implementation of user interface and user experiences systems. This includes menu systems, HUDs, inventory interfaces, and dialogue systems. They make the gap between the user and designer easier to manage ensuring that interfaces are interactive.
