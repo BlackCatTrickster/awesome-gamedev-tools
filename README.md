@@ -24,6 +24,18 @@ This is for free development tools and game engine tools.
 ## Game Development Careers
 These are different game development career paths.
 
+Game Programming ~ They write the code for game engines, mechanics, graphics, and even network programming.
+
+Game Designer ~ They create the game ideas such level design, the users experience in the game, and even narrative design.
+
+Game Artist ~ They make the artistical elements of games such as 2D sprites, 3D models, animations, and even visual effects.
+
+Game Sound Designer ~ They create the audio for the game like ambient audio, sound effects, background music, and overall sound for the game.
+
+Game Narrative Design ~ They make the storylines, dialogue, missions, character progression, and just the overall player experience with the environment.
+
+Game Business Management ~ They specialize in creating marketing strategies, doing promotions, and building overall awareness for the game.
 
 
 ## Game Programming Disciplines
+
